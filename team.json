@@ -1,0 +1,20 @@
+[
+   {
+      "url":"image/team-1.jpg", 
+      "name": "John Doe", 
+      "job":"Front End Developer", 
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    },
+    {
+        "url":"image/team-2.jpg", 
+        "name": "Sara William", 
+        "job":"Content Writer", 
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "url":"image/team-3.jpg", 
+      "name": "David Waht", 
+      "job":"Digital Marketing Expert", 
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    }
+]

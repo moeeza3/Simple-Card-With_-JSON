@@ -1,0 +1,1 @@
+Start your VS-Code live server then it will Show data in cards without it will not work!
